@@ -1,0 +1,4 @@
+/* Preserve normal vertical page scrolling while allowing horizontal swipe scrubbing. */
+video.prompt-scroll-scrubbed-video {
+	touch-action: pan-y;
+}
